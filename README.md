@@ -1,2 +1,2 @@
 # CPSCC001
-Use barcodes to find recycle
+Use barcodes to determine product recycalbility
